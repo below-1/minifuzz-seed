@@ -1,0 +1,20 @@
+lockfileVersion: 5.3
+
+specifiers:
+  csv-parse: ^4.16.2
+  csv-reader: ^1.0.8
+
+dependencies:
+  csv-parse: 4.16.2
+  csv-reader: 1.0.8
+
+packages:
+
+  /csv-parse/4.16.2:
+    resolution: {integrity: sha512-eq2BhB6JiIJaNv61pH5EC+o/iyCBxT+g6ukLu2UoNyS5daCN8YlzhOsLHGt/t9sGraMYt/aizaXPLQoNvxlIMw==}
+    dev: false
+
+  /csv-reader/1.0.8:
+    resolution: {integrity: sha512-EK03OmXoet2dljwfJoY7/M6C+DmsthQgObpXfO6yCQ2HKNVSBd9uQ3TDzlfbfDhSn8mgmnPR2oEUftip3VihTw==}
+    engines: {node: '>=8.0.0'}
+    dev: false
